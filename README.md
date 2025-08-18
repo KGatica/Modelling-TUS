@@ -64,7 +64,7 @@ Data is available in the
 <a href="https://github.com/KGatica/Modelling-TUS/tree/f6431cadf0c6e90cf6f1670c8db36f4cbc77828f/datasets" target="_blank">
 <code>datasets</code></a> folder.
 </p>
-The model uses **84 brain regions**, parcellated using the Desikan-Killiany atlas, and functional and structural data from 19 subjects.  
+The model uses 84 brain regions, parcellated using the Desikan-Killiany atlas, and functional and structural data from 19 subjects.  
 
 The following datasets are provided:
 
