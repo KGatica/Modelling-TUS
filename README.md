@@ -2,7 +2,7 @@
 
 Python code to reproduce the computational model of **transcranial ultrasound stimulation (TUS)** at different stimulation intensities, as proposed in the preprint:
 
-**[Gatica et al., 2025 - "Differential impact of transcranial ultrasound stimulation intensities on whole-brain dynamics"](https://www.biorxiv.org/content/10.1101/2025.01.11.632528v1)**
+**[Gatica et al., 2025 - "Understanding the high-order network plasticity mechanisms of ultrasound neuromodulation"](https://www.biorxiv.org/content/10.1101/2025.01.11.632528v1)**
 
 ---
 
